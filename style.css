@@ -56,7 +56,6 @@ nav .btni img {
 }
 .container {
   display: flex;
- 
 }
 .container .title-section,
 .hero-section {
@@ -135,7 +134,7 @@ nav .btni img {
   font-size: 16px;
   cursor: pointer;
 }
-.container .hero-section button{
-display: flex;
-align-items: center;
+.container .hero-section button {
+  display: flex;
+  align-items: center;
 }
