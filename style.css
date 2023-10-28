@@ -120,7 +120,7 @@ nav .btni img {
   box-shadow: 2px 2px 6px 2px #807474;
   color: #807474;
   text-transform: capitalize;
-  font-size: 16px;
+  font-size: 1em;
 }
 
 .container .hero-section {
@@ -138,7 +138,7 @@ nav .btni img {
   color: #807474;
   padding: 10px 20px;
   text-transform: capitalize;
-  font-size: 16px;
+  font-size: 1em;
   cursor: pointer;
 }
 .container .hero-section button {
@@ -148,10 +148,10 @@ nav .btni img {
 
 @media only screen and (max-width: 1456px) {
   .container .title-section h1 {
-    font-size: 2.5rem;
+    font-size: 2.5em;
   }
   .container .title-section p {
-    font-size: 1rem;
+    font-size: 1em;
   }
   .container .title-section .btn--c {
     display: flex;
